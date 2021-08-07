@@ -1,7 +1,9 @@
 import React from 'react'
 
+import { Fab } from './components/Fab'
+
 export const App = () => {
   return (
-    <h1>React Fab</h1>
+    <Fab />
   )
 }
